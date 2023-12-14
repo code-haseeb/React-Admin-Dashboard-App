@@ -9,7 +9,7 @@ body,
   width: 100%;
   font-family: "Source Sans Pro", sans-serif;
 }
-
+/* basic style for top div */
 .app {
   display: flex;
   position: relative;
@@ -33,3 +33,4 @@ body,
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
